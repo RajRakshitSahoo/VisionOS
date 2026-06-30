@@ -12,3 +12,4 @@ pycaw>=20181226
 comtypes>=1.2.0
 pywin32>=306
 screen-brightness-control>=0.23.0
+ 
