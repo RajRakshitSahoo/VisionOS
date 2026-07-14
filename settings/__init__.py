@@ -1,1 +1,2 @@
 """VisionOS AI - Settings module"""
+ 
