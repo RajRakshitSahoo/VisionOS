@@ -9,7 +9,7 @@ import logging
 
 from .eye_detector import BLINK_SINGLE, BLINK_DOUBLE, BLINK_LONG, BLINK_NONE
 from utils.smoothing import EyeSmoother
-
+ 
 logger = logging.getLogger(__name__)
 
 
